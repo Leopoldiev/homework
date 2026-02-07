@@ -1,0 +1,50 @@
+.button {
+    font-family: 'Montserrat', sans-serif;
+    border: 1px solid #06c;
+    border-radius: 3px;
+    padding: 5px 24px;
+    height: 30px;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 143%;
+    color: #fff;
+    background-color:  #06c;
+}
+
+.disabled {
+
+}
+
+.secondary {
+    color: #06c;
+    background-color:  #fff;
+}
+
+.default {
+}
+
+.red {
+}
+
+.default:hover {
+
+}
+
+.red:hover {
+}
+
+.secondary:hover {
+}
+
+
+.default:active {
+}
+
+.secondary:active {
+}
+
+.red:active {
+}
+
+.button:disabled {
+}
