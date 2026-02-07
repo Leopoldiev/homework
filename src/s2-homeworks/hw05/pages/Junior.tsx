@@ -1,5 +1,7 @@
 import React from 'react'
 import HW6 from "../../hw06/HW6";
+import {Header} from "../header/Header";
+import {Router} from "react-router-dom";
 // import HW6 from '../../hw06/HW6'
 // import HW7 from '../../hw07/HW7'
 // import HW8 from '../../hw08/HW8'
@@ -8,6 +10,7 @@ import HW6 from "../../hw06/HW6";
 function Junior() {
     return (
         <div id={'hw5-page-junior'}>
+            <Header handleOpen={()=>{}}/>
             <HW6/>
             {/*<HW6 />*/}
             {/*<HW7 />*/}
