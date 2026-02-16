@@ -1,6 +1,8 @@
 import React from 'react'
 import s from './App.module.css'
 import Junior from "../s2-homeworks/hw05/pages/Junior";
+import {BrowserRouter} from "react-router-dom";
+import JuniorPlus from "../s2-homeworks/hw05/pages/JuniorPlus";
 
 function App() {
     return (
@@ -14,7 +16,8 @@ function App() {
             {/*при выполнении дз 5 и более - закомментировать здесь дз 1-4, так как они есть внутри дз 5*/}
             {/*<HW5/>*/}
             {/*<HW6/>*/}
-            <Junior/>
+            <JuniorPlus/>
+
         </div>
     )
 }

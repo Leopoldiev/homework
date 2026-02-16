@@ -1,7 +1,10 @@
 import React from 'react'
+import { Header } from "../../hw06/Header";
 import HW6 from "../../hw06/HW6";
-import {Header} from "../header/Header";
-import {Router} from "react-router-dom";
+import HW7 from "../../hw07/HW7";
+import HW8 from "../../hw08/HW8";
+import HW9 from "../../hw09/HW9";
+
 // import HW6 from '../../hw06/HW6'
 // import HW7 from '../../hw07/HW7'
 // import HW8 from '../../hw08/HW8'
@@ -10,12 +13,11 @@ import {Router} from "react-router-dom";
 function Junior() {
     return (
         <div id={'hw5-page-junior'}>
-            <Header handleOpen={()=>{}}/>
+            <Header/>
             <HW6/>
-            {/*<HW6 />*/}
-            {/*<HW7 />*/}
-            {/*<HW8 />*/}
-            {/*<HW9 />*/}
+            <HW7 />
+            <HW8 />
+            <HW9 />
         </div>
     )
 }

@@ -38,13 +38,17 @@
 
 
 .default:active {
+    background-color:  #06c;
 }
 
 .secondary:active {
+
 }
 
 .red:active {
 }
 
 .button:disabled {
+    background-color: #06c;
+    opacity: 0.4;
 }
