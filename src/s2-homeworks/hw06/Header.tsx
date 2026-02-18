@@ -4,7 +4,7 @@ export const Header = () => {
     return (
         <div className={s.header}>
             <img src={burger} id={'hw5-burger-menu'} alt='Header' />
-            <span className={s.title} id={'hw5-junior-link'}>Junior</span>
+            <span className={s.title} id={'hw5-junior-plus-link'}>Junior+</span>
         </div>
     );
 };
