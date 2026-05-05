@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/homework/static/css/main.82f1143d.css",
-    "main.js": "/homework/static/js/main.d3e47475.js",
+    "main.css": "/homework/static/css/main.ba3acdc3.css",
+    "main.js": "/homework/static/js/main.bc9f9a21.js",
     "static/js/787.66cb4309.chunk.js": "/homework/static/js/787.66cb4309.chunk.js",
     "static/media/200.svg": "/homework/static/media/200.96248f7df0dde10e0a82ac30418f50bc.svg",
     "static/media/error.svg": "/homework/static/media/error.5a3135f381b00b53044eff200e725391.svg",
     "static/media/500.svg": "/homework/static/media/500.adbc5f265f6f3c1fb9c5633ffe365afa.svg",
     "static/media/400.svg": "/homework/static/media/400.8baa1b795048b6fa13ff8d30800aa1b1.svg",
     "index.html": "/homework/index.html",
-    "main.82f1143d.css.map": "/homework/static/css/main.82f1143d.css.map",
-    "main.d3e47475.js.map": "/homework/static/js/main.d3e47475.js.map",
+    "static/media/Polygon 5.svg": "/homework/static/media/Polygon 5.aa1b56fad8fa8a6a846f2e08bc4695d8.svg",
+    "static/media/Polygon 2.svg": "/homework/static/media/Polygon 2.92416861546054d2ae15f376ada12ea7.svg",
+    "main.ba3acdc3.css.map": "/homework/static/css/main.ba3acdc3.css.map",
+    "main.bc9f9a21.js.map": "/homework/static/js/main.bc9f9a21.js.map",
     "787.66cb4309.chunk.js.map": "/homework/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.82f1143d.css",
-    "static/js/main.d3e47475.js"
+    "static/css/main.ba3acdc3.css",
+    "static/js/main.bc9f9a21.js"
   ]
 }
